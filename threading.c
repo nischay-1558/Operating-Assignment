@@ -2,7 +2,7 @@
 * A simple file to validate your automated test setup for AESD
 */
 
-#include "autotest-validate.h"
+#include "threading.h"
 #include <stdbool.h>
 
 /**
